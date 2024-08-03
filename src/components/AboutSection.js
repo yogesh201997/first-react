@@ -19,7 +19,7 @@ const AboutSection = () => {
                                     There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, orThere are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, orThere are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or
                                 </p>
                                 <a href="about.html" className="">
-                                    Read More
+                                    Read More By yogesh_2
                                 </a>
                             </div>
                         </div>
